@@ -1,8 +1,7 @@
 # Store-Sales-kaggle
 
-<span style="font-size:20px;">[Competition URL](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)</span>
+[Competition URL](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 # Useful Resources
-<span style="font-size:20px;">[Data Camp ARIMA Models](https://app.datacamp.com/learn/courses/arima-models-in-python)</span>
+[Data Camp ARIMA Models](https://app.datacamp.com/learn/courses/arima-models-in-python)
 
-<span style="font-size:20px;">[Kaggle Time Series](https://www.kaggle.com/learn/time-series)
-</span>
+[Kaggle Time Series](https://www.kaggle.com/learn/time-series)
